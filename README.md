@@ -1,7 +1,7 @@
 ![GIF](https://github.com/litonroky/litonroky/blob/main/)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Liton+Roky....;Software+Engineer...;CSharp+ASP.NET...;JavaScript+Expert...;system+Network+Administrator...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Liton Roky....;Network+Engineer...;CSharp+ASP.NET...;JavaScript+Expert...;system+Network+Administrator...;WordPress+Expert...;Digital+Marketing+Expert&center=true&size=30">
   </a>
 </h1>
 
